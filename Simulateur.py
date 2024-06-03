@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 import locale
-import matplotlib.pyplot as plt
 import plotly.graph_objs as go
 import altair as alt
 
